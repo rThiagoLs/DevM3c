@@ -2,11 +2,11 @@
 
 Eu sou Ruan thiago,
 
-Desenvolvedor,
+Desenvolvedor Back-End,
 
 Cursando Sistemas para internet na Universidade Católica de Pernambuco,
 
-Meu foco atualmente é desenvolvimento Back-End
+Meu foco atualmente é desenvolvimento Back-End utilizando Java e SpringBooT
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevM3c&show_icons=true&theme=tokyonight"/>
