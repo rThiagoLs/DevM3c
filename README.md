@@ -23,7 +23,6 @@ Meu foco atualmente é desenvolvimento Back-End utilizando Java e SpringBooT
 
 <img align="center" alt="rThiagoLs-java" hight="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="center" alt="rThiagoLs-java" hight="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-<img align="center" alt="rThiagoLs-java" hight="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg""/>
 <img align="center" alt="rThiagoLs-java" hight="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img align="center" alt="rThiagoLs-java" hight="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 
