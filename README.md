@@ -4,7 +4,7 @@ Eu sou Ruan thiago,
 
 Desenvolvedor Back-End,
 
-Cursando Sistemas para internet na Universidade Católica de Pernambuco,
+Formado em Sistemas para internet na Universidade Católica de Pernambuco,
 
 Meu foco atualmente é desenvolvimento Back-End utilizando Java e SpringBooT
 
